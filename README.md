@@ -1,4 +1,7 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+RAMAN KISHORE C
+212223080041
+
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
